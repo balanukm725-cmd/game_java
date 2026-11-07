@@ -1,0 +1,14 @@
+/build/
+/test-build/
+/out/
+/target/
+*.class
+*.log
+*.tmp
+*.jar[0-9]*.jar
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+Desktop.ini
